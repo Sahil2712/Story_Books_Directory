@@ -1,0 +1,30 @@
+body{
+  background-color: #000;
+  color: #938485;
+}
+p {
+  margin: 10px 0 !important;
+}
+
+.login-container {
+  width: 400px;
+  margin-top: 50px;
+  text-align: center;
+  color:black;
+}
+
+.fa-small {
+  font-size: 16px !important;
+}
+
+.btn-float {
+  float: left;
+  margin-right: 30px;
+}
+
+.img-small {
+  width: 180px;
+}
+.card-story{
+  color:black;
+}
